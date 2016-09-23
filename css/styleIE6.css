@@ -1,0 +1,9 @@
+    .clear{height:0px; width:100%;}
+	.menu ul .active a,      .menu ul li a:hover{ text-decoration:underline; border:none;}
+	.menu2 ul .active a,      .menu2 ul li a:hover{ text-decoration:underline; border:none;}
+	#header { padding-top:35px; height:757px; padding-bottom:0; margin-bottom:0;	}
+	#content {padding: 10px 0px 0 0;}
+	.menu2 ul{margin:0; padding:0; display:block;}
+  #content .table .form input.inputbox { margin:0px; padding:0;}
+
+  #content .table .form .clear{ clear:both; display:inline;}

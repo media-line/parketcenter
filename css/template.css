@@ -1,0 +1,4 @@
+.clear{clear:both; height:1px;}
+.dirty{background:url(../images/bg-dirty.png) 0 0 no-repeat; display:block; width:116px; height:21px; font:normal 14px "Arial Narrow"; padding:8px 0 0 18px;}
+.anotation{color:#353535; width:100%; font-style:italic; padding-bottom:10px;}
+.colums{ padding:0;}
